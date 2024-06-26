@@ -1,7 +1,7 @@
 # **Joe Lans**
 # **Contacts**
-GitHub: [joelans](https://github.com/joelans)
-Discord: @joelans
+* GitHub: [joelans](https://github.com/joelans)
+* Discord: @joelans
 # **About myself**
 Beginner Back-End Developer who want to learn usefull Front-End skills
 # **Skills**
@@ -24,6 +24,6 @@ System.out.println(sb.toString());
 * Free State University
   * Software development
 * Courses
-  [freeCodeCamp](https://www.freecodecamp.org/)
+  * [freeCodeCamp](https://www.freecodecamp.org/)
 # **English**
 **B2**
