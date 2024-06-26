@@ -19,11 +19,11 @@ for(int i = 1; i <= 10; i++) {
 System.out.println(sb.toString());
 ```
 # **Experience**
-[CV Project] (https://github.com/joelans/rsschool-cv)
+[CV Project](https://github.com/joelans/rsschool-cv)
 # **Education**
 * Free State University
   * Software development
 * Courses
-  [freeCodeCamp] (https://www.freecodecamp.org/)
+  [freeCodeCamp](https://www.freecodecamp.org/)
 # **English**
 **B2**
