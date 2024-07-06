@@ -3,15 +3,16 @@
   }
 
 .header {
-    border: 1px solid red;
+    background-color: #f9f2e4;
 }
 
 .main {
-    border: 1px solid red;
+    background-color: #3e3e3e;
 }
 
 .footer {
-    border: 1px solid red;
+    background-color: #a99564;
+    height: 100px;
 }
 
 body {
@@ -39,7 +40,7 @@ body {
     line-height: 50px;
     text-decoration: none;
     font-size: 20px;
-    color: #cf162c;
+    color: #3e3e3e;
     transition: 0.3s;
 }
 
@@ -72,7 +73,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
-    color: #4d2323;
+    color: #f5efe5;
 }
 
 .section-title {
@@ -80,7 +81,7 @@ body {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #829985;
+    color: #a99564;
 }
 
 .link {
@@ -92,3 +93,4 @@ body {
 .link:hover {
     color: #5d7260;
 }
+
