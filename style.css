@@ -125,6 +125,10 @@ pre code p {
 }
 
 .ref {
-    color: black;
+    color: white;
     text-decoration: none;
+}
+
+pre {
+    white-space: pre-wrap;
 }
