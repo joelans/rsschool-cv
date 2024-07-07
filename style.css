@@ -41,7 +41,6 @@ body {
     text-decoration: none;
     font-size: 20px;
     color: #3e3e3e;
-    transition: 0.3s;
 }
 
 .nav-link:hover {
@@ -70,14 +69,14 @@ html {
 
 body {
     font-family: "Roboto", sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     line-height: 1.5;
     color: #f5efe5;
 }
 
 .section-title {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -87,7 +86,6 @@ body {
 .link {
     text-decoration: none;
     color: #829985;
-    transition: color 0.5s;
   }
   
 .link:hover {
@@ -115,20 +113,12 @@ body {
     margin: 0 auto;
 }
 
-pre code p {
-    margin: 0;
-    padding: 0;
-}
 
 .section-footer {
     color: #3e3e3e;
 }
 
 .ref {
-    color: white;
+    color: #f9f2e4;
     text-decoration: none;
-}
-
-pre {
-    white-space: pre-wrap;
 }
